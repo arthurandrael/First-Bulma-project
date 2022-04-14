@@ -1,0 +1,22 @@
+body {
+    font-size: 16px;
+}
+
+
+.imgs{ 
+  color: white;
+  font-weight: bold;
+  background-color: #5E607A;
+  width: 10rem;
+  height: 10rem;
+  margin: auto;
+  text-align: center;
+  padding-top: 4rem;
+  margin-bottom: 1rem;
+}
+
+
+#column_container {
+  overflow-x: scroll;
+  display: flex;
+}
